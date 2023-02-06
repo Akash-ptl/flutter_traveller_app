@@ -3,7 +3,7 @@
 A new Flutter project.
 
 <p align="center">
-  <img src="https://github.com/Akash-ptl/flutter_traveller_app/blob/master/assets/Images/IMG_20230206_194931.png" />
+  <img src="https://github.com/Akash-ptl/flutter_traveller_app/blob/master/assets/Images/flutter_traveller.png" />
 </p>
 
 This project is a starting point for a Flutter application.
