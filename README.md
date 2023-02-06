@@ -2,14 +2,8 @@
 
 A new Flutter project.
 
-<p align="center">
-  <img src="https://github.com/Akash-ptl/flutter_traveller_app/blob/master/assets/Images/flutter_traveller.png" />
-</p>
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
     <td><img src="assets/Images/IMG_20230206_194931.png" </td>
