@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+<p align="center">
+  <img src="https://github.com/Akash-ptl/flutter_traveller_app/blob/master/assets/Images/IMG_20230206_194931.png" />
+</p>
 
 This project is a starting point for a Flutter application.
 
